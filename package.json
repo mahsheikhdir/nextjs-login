@@ -6,6 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@heroicons/react": "^1.0.4",
     "axios": "^0.21.1",
     "cookie": "^0.4.1",
     "js-cookie": "^3.0.0",
