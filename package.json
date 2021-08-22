@@ -9,6 +9,7 @@
     "@heroicons/react": "^1.0.4",
     "axios": "^0.21.1",
     "cookie": "^0.4.1",
+    "heroicons": "^1.0.4",
     "js-cookie": "^3.0.0",
     "jsonwebtoken": "^8.5.1",
     "next": "latest",
